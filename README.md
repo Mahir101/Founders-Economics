@@ -67,9 +67,7 @@ You are choosing:
 
 For any action ( A_i ):
 
-[
-OC(A_i) = \max (Return\ of\ all\ other\ A_j)
-]
+A* = argmax(Expected Return - Opportunity Cost)
 
 Choose:
 
