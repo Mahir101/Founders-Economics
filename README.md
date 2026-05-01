@@ -465,9 +465,7 @@ Unit\ Value\ Created > Unit\ Cost\ of\ Creation
 
 A startup scales if:
 
-[
-Marginal\ Value > Marginal\ Cost
-]
+[Marginal\ Value > Marginal\ Cost]
 
 A startup dominates if:
 
@@ -477,8 +475,4 @@ It\ improves\ both\ faster\ than\ competitors
 
 ---
 
-If you want next step, I can formalize:
 
-* Full decision trees for each business model
-* Mathematical modeling of growth vs burn
-* Or convert this into a system design equivalent for startup economics
